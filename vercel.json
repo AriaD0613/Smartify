@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://smartify.smartifynet.workers.dev/$1"
+    }
+  ]
+}
